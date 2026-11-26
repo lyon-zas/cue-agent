@@ -286,3 +286,5 @@ Built as an open-source study of how tools like **Cluely** and **Interview Coder
 Local transcription uses [whisper.cpp](https://github.com/ggml-org/whisper.cpp), distributed under the MIT License. Its license notice is included in packaged runtimes.
 
 **License: [GPL-3.0-or-later](LICENSE).**
+#   c u e - a g e n t  
+ 
